@@ -1,0 +1,11 @@
+{
+	producers:[
+		{
+			format_file:"~/Downloads/homeA-all/homeA-environmental/FORMAT",
+			source_file:"~/Downloads/homeA-all/homeA-environmental/all-environmental-sort.csv",
+			transform_file:"",
+			start_time:"2012-04-30 09:20:00",
+			speed:1
+		}
+	]
+}
